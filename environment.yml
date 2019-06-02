@@ -1,0 +1,8 @@
+name: squatchcast
+channels:
+- defaults
+dependencies:
+- python=3.6
+- pip:
+  - black
+  - flake8
